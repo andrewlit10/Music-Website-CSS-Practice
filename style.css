@@ -261,12 +261,12 @@ footer {
         padding-bottom: 200px;
     }
     .ipad-image {
-        max-width: 95%;
+        max-width: 90%;
         align-items: center;
         justify-content: center;
     }
     .ipad-image img {
-        max-width: 95%;
+        max-width: 100%;
         margin-bottom: -50px;
         
     }
