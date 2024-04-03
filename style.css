@@ -47,7 +47,7 @@ header {
     background-image: url(images/hero_image.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 900px;
     color: white;
     
     text-align: center;
@@ -185,7 +185,6 @@ h1 {
 
 .footer-container {
     display: flex;
-    
     justify-content: space-between;
     align-items: center;
     background-color: #33225c;
