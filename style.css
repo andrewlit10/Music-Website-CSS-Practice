@@ -155,10 +155,12 @@ h1 {
     align-items: center;
     justify-content: center;
     padding: 75px;
+    background-color: rgb(250, 242, 250);
     
 }
 .gift-card-info {
-    max-width: 50%;
+    max-width: 40%;
+    padding-left: 20px;
     
     
 }
@@ -188,7 +190,7 @@ h1 {
     align-items: center;
     background-color: #33225c;
     color: white;
-    padding: 30px 150px;
+    padding: 30px 250px;
 }
 .footer-container ul {
     list-style: none;
