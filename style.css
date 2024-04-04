@@ -237,6 +237,9 @@ footer {
 
 
 @media (max-width: 468px) {
+    * {
+        max-width: 100vw;
+    }
     header {
         position: relative;
         top: 0;
@@ -330,5 +333,8 @@ footer {
     .footer-container li {
         font-size: 12px;
         max-width: 100%;
+    }
+    .hero-container {
+        max-height: 400px;
     }
 }
